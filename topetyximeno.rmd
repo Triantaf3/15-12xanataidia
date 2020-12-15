@@ -2,7 +2,9 @@
 title: "Topetyximeno"
 author: "Daniel"
 date: "15/12/2020"
-output: html_document
+output: 
+  html_document: 
+    keep_md: github_document
 ---
 
 ```{r setup, include=FALSE}
